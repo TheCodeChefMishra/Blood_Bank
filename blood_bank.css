@@ -1,0 +1,38 @@
+*{
+ padding:0px;
+ margin:0px;
+}
+.header
+{    height:600px;
+	 background:url('wpics/blood/maxresdefault.jpg') no-repeat;
+	 background-size:100% 100%;
+}
+.txt1
+{
+	font-size:22px;
+	  font-family:Sans Serif;
+	  word-spacing:0.01px;
+	  padding-top:30px;
+	  line-height: 25px;
+	  text-align:justify;
+	  color:#2f2e2f;
+}
+.section1
+{
+	height:500px auto;
+	margin-top:60px;
+	background-color:white;
+	margin-bottom:100px;
+}
+.section2
+{
+	height:500px auto;
+	background-color:white;
+	margin-top:40px;
+	
+}
+.section3
+{
+	height:300px;
+	background-color:black;
+}
